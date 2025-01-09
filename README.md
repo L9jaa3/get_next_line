@@ -14,4 +14,7 @@
 ✅ Works with a **customizable `BUFFER_SIZE`**  
 ✅ Handles both **small and large files** efficiently 
 
-### important part :
+### important part (explaining) :
+
+#### https://www.tldraw.com/ro/WtqlEflAMSSMZvmwpwCoX?d=v-5764.-4029.10753.10928.page
+
